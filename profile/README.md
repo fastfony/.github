@@ -1,16 +1,16 @@
 # Fastfony Github Organization 🚀
 
-Welcome to **Fastfony**, your go-to organization for modern PHP and Symfony development!  
-We build and maintain Fastfony, a robust starter-kit and boilerplate designed to help developers launch web applications faster, smarter, and with best practices out of the box.
+Welcome to **[Fastfony](https://fastfony.com/?source=github-org-readme)**, boilerplate and starter-kit for modern PHP and Symfony development!  
+We build and maintain Fastfony, a robust solution designed to help developers launch web applications faster, smarter, and with best practices out of the box.
 
 ---
 
-## 🙋‍♀️ What is Fastfony?
+## 🙋‍♀️ What is [Fastfony](https://fastfony.com/?source=github-org-readme) ?
 
 Fastfony is a **boilerplate starter-kit for Symfony** (PHP 8+) that streamlines your development workflow.  
 It features a powerful tech stack and a full suite of tools for content management, authentication, e-commerce, administration, and more.
 
-- **Modern stack:** Symfony, Vue 3, Tailwind CSS, API Platform, EasyAdmin, Webpack Encore
+- **Modern stack:** Symfony 7+, Vue 3, Tailwind CSS, API Platform, EasyAdmin, Webpack Encore
 - **Rapid project setup:** Everything you need for a scalable web app, ready in minutes
 - **Stable & maintained:** Closely follows Symfony releases; LTS versions available
 
@@ -28,7 +28,7 @@ While Fastfony is **not open source**, the source code is available for personal
 ## 👩‍💻 Useful Resources
 
 - **Showroom & Website:** [fastfony.com](https://fastfony.com/?source=github-org-readme)
-- **Documentation:** [docs.fastfony.com](https://docs.fastfony.com) _(Work in progress—community help welcome!)_
+- **Documentation:** [docs.fastfony.com](https://docs.fastfony.com/?source=github-org-readme) _(Work in progress—community help welcome!)_
 - **Release Notes:** [First stable release](https://github.com/fastfony/fastfony/releases/tag/v0.3.1)
 - **Changelog:** [Commit history](https://github.com/fastfony/fastfony/commits/0.3/)
 
