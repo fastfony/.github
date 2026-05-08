@@ -28,6 +28,15 @@ Pick what you need. Skip the rest. [Read the manifesto →](https://fastfony.com
 
 - [**fastfony/quality-pack**](https://github.com/fastfony/quality-pack) — PHPStan + PHP-CS-Fixer + Twig-CS-Fixer + GitHub Actions workflow + Makefile, in one `composer require --dev`.
 
+<details>
+<summary><em>Webpack Encore opt-in (for teams that prefer Encore over the recommended AssetMapper)</em></summary>
+
+- [`fastfony/webapp-webpack-encore-pack`](https://github.com/fastfony/webapp-webpack-encore-pack) — webapp baseline with Webpack Encore instead of AssetMapper.
+- [`fastfony/webapp-webpack-encore-vue-sfc-pack`](https://github.com/fastfony/webapp-webpack-encore-vue-sfc-pack) — adds Vue Single-File Component support on the Encore stack.
+- [`fastfony/tailwind-webpack-encore-pack`](https://github.com/fastfony/tailwind-webpack-encore-pack) — adds Tailwind CSS through Encore + PostCSS.
+
+</details>
+
 ### The Skill (MIT)
 
 - [**fastfony/claude-skill**](https://github.com/fastfony/claude-skill) — bootstraps a full Symfony starter-kit (auth, Tailwind or Bootstrap, CI, quality) in one conversation with Claude. Free to use, fork, and improve.
